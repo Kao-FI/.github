@@ -1,1 +1,1 @@
-## Tervetuloa Kainuun Ammattiopiston ICT -alan GitHub Mediaan!
+## Tervetuloa Kainuun Ammattiopiston ICT -alan GitHub Sivustolle!
