@@ -1,2 +1,2 @@
 # .github
-Tervetuloa ICT-alan GitHub Sivulle!
+Tervetuloa Kainuun Ammattiopiston ICT -alan GitHub Mediaan!
